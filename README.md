@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/capncodewash/packagetest/workflows/R-CMD-check/badge.svg)](https://github.com/capncodewash/packagetest/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/capncodewash/packagetest/branch/main/graph/badge.svg)](https://app.codecov.io/gh/capncodewash/packagetest?branch=main)
 <!-- badges: end -->
 
 The goal of packagetest is to …
